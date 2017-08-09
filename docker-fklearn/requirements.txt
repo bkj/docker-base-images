@@ -1,5 +1,4 @@
 git+https://github.com/bkj/emoji.git
-
 git+https://github.com/bkj/twutils.git
 git+https://github.com/bkj/fklearn.git
 polyglot>=16.7
